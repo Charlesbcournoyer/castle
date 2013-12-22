@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Castle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-02 11:27-0500\n"
+"PO-Revision-Date: 2013-12-02 11:45-0500\n"
+"Last-Translator: Daniel <contact@onedesigns.com>\n"
+"Language-Team: Charles Cournoyer <info@charlescournoyer.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e\n"
+"X-Poedit-Basepath: C:\\Users\\Charles\\Desktop\\DEV\\Portefolio\\castle\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Charles\\Desktop\\DEV\\Portefolio\\castle\n"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/attachment.php:14
+msgid "Download"
+msgstr "Téléchargement"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/attachment.php:26
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/image.php:26
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/page.php:21
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/single.php:21
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-content-sidebar-half.php:18
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-content-sidebar.php:20
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-full-width.php:18
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-landing-page.php:23
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-no-sidebars.php:18
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-sidebar-content-half.php:18
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/template-sidebar-content.php:20
+msgid "Pages:"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par mot de passe. Entré le mot de passe pour voir "
+"les commentaires"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/comments.php:7
+msgid "No Responses to"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/comments.php:7
+msgid "One Response to"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/comments.php:7
+msgid "% Responses to"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/comments.php:29
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:10
+msgid "Castle Theme"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:11
+msgid "Charles Cournoyer"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:12
+msgid "WordPress"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:14
+#, php-format
+msgid "Powered by %1$s by %2$s and %3$s"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:16
+#, php-format
+msgid "Powered by %1$s by %2$s"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:18
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:20
+#, php-format
+msgid "Powered by %1$s and %2$s"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:22
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:24
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/footer.php:26
+#, php-format
+msgid "Powered by %1$s"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:816
+msgid "There are no more posts to display."
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:819
+msgid "Loading more posts &#8230;"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1265
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1273
+msgid "Page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1300
+msgid "Currently browsing"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1305
+msgid "Search results for"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1322
+#, php-format
+msgid "Page %d"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1604
+msgid "Link to full-size image"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1604
+msgid "pixels"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:1606
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2187
+msgid "Did you like this article? Share it with your friends!"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2255
+msgid "Written by"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2274
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2292
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:161
+msgid "Previous Page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2275
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2293
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:161
+msgid "Next Page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2278
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:162
+msgid "Newer Posts"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2279
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:162
+msgid "Older Posts"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2282
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:163
+msgid "Later Posts"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2283
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:163
+msgid "Earlier Posts"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2309
+msgid "Read all Articles"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2329
+msgid "Content not found"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2331
+msgid "The content you are looking for could not be found."
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/functions.php:2333
+msgid ""
+"Use the information below or try to seach to find what you're looking for:"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/searchform.php:2
+msgid "Search this website"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:4
+msgid "Castle Theme Options"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:4
+msgid "Theme Options"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:34
+msgid "Theme settings updated successfully."
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:41
+msgid "Save Settings"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:42
+msgid "Reset Defaults"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:56
+msgid "General"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:57
+msgid "Design"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:58
+msgid "Layout"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:59
+msgid "Typography"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:60
+msgid "SEO"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:99
+msgid "Global Options"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:100
+msgid "Social Media Links"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:101
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:818
+msgid "Home Page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:102
+msgid "Portfolio Page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:103
+msgid "Blog Pages"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:104
+msgid "Single Posts"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:105
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:109
+msgid "Retina Header Image"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:110
+msgid "Fancy Drop-down Menus"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:111
+msgid "Post Thumbnails"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:112
+msgid "Lightbox"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:113
+msgid "Posts Navigation"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:114
+msgid "Posts Navigation Labels"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:120
+msgid ""
+"Uploaded header images are HiDPI images for retina displays, downsize on "
+"normal screen devices."
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:128
+msgid "Enable transition effects for drop-down menus"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:136
+msgid "Hard crop post thumbnails"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:138
+msgid ""
+"After changing this option, it is recommended to recreate your thumbnails "
+"using a plugin like"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:145
+msgid "Open image links in a lightbox"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:152
+msgid "Static Links"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:153
+msgid "AJAX Links"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:154
+msgid "Infinite Scroll"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:164
+msgid "Numbered Pagination"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:170
+msgid "Facebook Page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:171
+msgid "Twitter Account"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:172
+msgid "Pinterest Board"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:173
+msgid "Flickr Account"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:174
+msgid "Vimeo Account"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:175
+msgid "Youtube Channel"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:176
+msgid "Google Plus Account"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:177
+msgid "Dribble Account"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:178
+msgid "LinkedIn Account"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:227
+msgid "Full posts to display"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:228
+msgid "Sticky Posts Slider"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:229
+msgid "Exclude Portfolio"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:235
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:276
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:284
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:305
+msgid "Full posts to display before grid"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:243
+msgid "Exclude Portfolio Category from main loop"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:251
+msgid "Display a slider of sticky posts on the front page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:257
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:258
+msgid "Full posts to display on first page"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:259
+msgid "Full posts to display on secondary pages"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:297
+msgid "Show current location in archive pages"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:311
+msgid "Social Bookmarks"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:312
+msgid "Author Box"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:318
+msgid "Facebook Like"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:322
+msgid "Twitter Button"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:326
+msgid "Google +1"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:330
+msgid "Pinterest"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:338
+msgid ""
+"Display a hcard microformatted box featuring author name, avatar and bio"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:344
+msgid "Copyright Notice"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:345
+msgid "Credit Links"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:351
+msgid ""
+"Text to display in the footer copyright section (%year% = current year, "
+"%blogname% = website name)"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:359
+msgid "Show theme credit link"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:363
+msgid "Show author credit link"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:367
+msgid "Show WordPress credit link"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:373
+msgid "Background Colors"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:377
+msgid "Page Background Color"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:378
+msgid "Menu Background Color"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:379
+msgid "Dropdown Menus Background Color"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:380
+msgid "Site Location Background Color"
+msgstr "Arrière plan de l'enplacement actuel"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:381
+msgid "Content Background Color"
+msgstr "Arrière plan du contenu"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:382
+msgid "Post Meta Background Color"
+msgstr "Couleur de fond des métas données des articles"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:383
+msgid "Footer Widgets Background Color"
+msgstr "Couleur d'arrière plan des widgets du pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:384
+msgid "Footer Background Color"
+msgstr "Couleur d'arrière plan du pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:428
+msgid "Default Layout Template"
+msgstr "Template par défault"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:429
+msgid "Grid Layout Dimensions"
+msgstr "Dimension pour la mise en page de la grille"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:430
+msgid "Responsive Layout"
+msgstr "Mise en page Responsive"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:431
+msgid "Custom CSS"
+msgstr "CSS personalisé"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:435
+msgid "Choose your preferred Layout"
+msgstr "Choissisez votre mise en page préféré"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:439
+msgid "Content Columns"
+msgstr "Nombre de colonne dans le contenu"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:440
+msgid "Boxes Sidebar Columns"
+msgstr "Nombre de boîte dans la barre latéral"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:441
+msgid "Footer Sidebar Columns"
+msgstr "Nombre de colonne dans le pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:445
+msgid "Hide Sidebar"
+msgstr "Cacher les barres latéral"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:446
+msgid "Hide Footer Widgets Area"
+msgstr "Cacher les widget du pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:450
+msgid "Enter your custom CSS"
+msgstr "Entrer votre code Css personalisé"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:509
+msgid "Note"
+msgstr ""
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:509
+msgid ""
+"If your layout contains a sidebar, the sidebar accounts for 1 column from "
+"the grid."
+msgstr ""
+"Si votre mise en page contient une barre latéral, cette dernière compte pour "
+"1 colonne sur la grille"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:510
+msgid "Not all combinations of layouts and number of columns may be practical."
+msgstr ""
+"Certaine combinaison de colonne ne vont pas très bien avec certaine mise en "
+"page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:536
+msgid "Hide Sidebar on Mobile Devices"
+msgstr "Masquer les barres latéral sur les appareil mobile"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:544
+msgid "Hide Footer Widget Area on Mobile Devices"
+msgstr "Masquer les widget de pied de page sur les appareils mobile"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:555
+msgid "Font Families"
+msgstr "Famille de police"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:556
+msgid "Font Sizes"
+msgstr "Taille de police"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:557
+msgid "Colors"
+msgstr "Couleur"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:561
+msgid "Default Font Family"
+msgstr "Famile de police par défaut"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:562
+msgid "Headings Font Family"
+msgstr "Police de l'entête"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:563
+msgid "Body Copy Font Family"
+msgstr "Police par défault du Body"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:597
+msgid "Default Font Size"
+msgstr "Police par défault"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:598
+msgid "Default Line Height"
+msgstr "Hauteur de ligne par défault"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:599
+msgid "H1 Font Size"
+msgstr "Taille des élément H1"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:600
+msgid "H2 Font Size"
+msgstr "Taille des élément H2"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:601
+msgid "H3 Font Size"
+msgstr "Taille des élément H3"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:602
+msgid "H4 Font Size"
+msgstr "Taille des élément H4"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:603
+msgid "Headings Line Height"
+msgstr "Hauteur de ligne dans l'entête"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:604
+msgid "Body Copy Font Size"
+msgstr "Taille de police du Body"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:605
+msgid "Body Copy Line Height"
+msgstr "Hauteur de ligne du Body"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:606
+msgid "Body Copy Font Size on Mobile Devices"
+msgstr "Couleur de police du Body sur les appareil mobile"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:607
+msgid "Body Copy Line Height on Mobile Devices"
+msgstr "Hauteur de ligne par défaut du Body sur les appareil mobile"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:732
+msgid "Default Font Color"
+msgstr "Couleur par défaut des polices"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:733
+msgid "Headings Font Color"
+msgstr "Couleur de l'entête"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:734
+msgid "Body Copy Font Color"
+msgstr "Couleur de police de l'élément Body"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:735
+msgid "Links Color"
+msgstr "Couleur des liens"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:736
+msgid "Links Hover Color"
+msgstr "Couleur des liens en état Hover"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:737
+msgid "Navigation Links Color"
+msgstr "Couleur des liens de navigation"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:738
+msgid "Navigation Links Hover Color"
+msgstr "Couleur des liens de navigation en état Hover"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:739
+msgid "Sidebar Widgets Color"
+msgstr "Couleur des widget dans la barre latéral"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:740
+msgid "Sidebar Widgets Title Color"
+msgstr "Couleur des titres des widget dans la barre latéral"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:741
+msgid "Widgets Links Color"
+msgstr "Couleur des liens des widgets dans le pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:742
+msgid "Footer Widgets Color"
+msgstr "Couleur des Widgets dans le pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:743
+msgid "Footer Widgets Title Color"
+msgstr "Couleur du titre des widget dans le pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:744
+msgid "Footer Color"
+msgstr "Couleur du pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:745
+msgid "Footer Links Color"
+msgstr "Couleur de lien du pied de page"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:819
+msgid "Archive Pages"
+msgstr "Page d'archive"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:820
+msgid "Single Posts &amp; Pages"
+msgstr "Article unique &amp; Pages"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:821
+msgid "Other"
+msgstr "Autre"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:825
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:861
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:908
+msgid "Site Title Tag"
+msgstr "Tag pour le Titre du site"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:826
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:862
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:909
+msgid "Site Description Tag"
+msgstr "Tag pour la description du site"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:827
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:864
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:910
+msgid "Post Title Tag"
+msgstr "Tag du Titre des Articles"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:863
+msgid "Site Location Title Tag"
+msgstr "Tag du Titre de l'emplacement actuel"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:911
+msgid "Comments Title Tag"
+msgstr "Tag du Titre des commentaires"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:912
+msgid "Reply Form Title Tag"
+msgstr "Tag pour le Titre du formulaire de réponse"
+
+#: C:\Users\Charles\Desktop\DEV\Portefolio\castle/includes/theme-options.php:966
+msgid "Widget Title Tag"
+msgstr "Tag pour le Titre des Widget"
